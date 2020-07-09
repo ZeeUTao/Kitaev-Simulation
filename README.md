@@ -2,7 +2,7 @@
 Kitaev chain simulation in k-space by circuit QED, finished during the last year of my undergraduate and first year of PhD
 
 ## Note
-when I re-save in the form of .csv, the float number may vary slightly, E.g. +- 0.00001
+when I re-save the data in the form of .csv, the float number may vary slightly, E.g. +- 0.00001
 
 ## unzip data
 unzip the data/data.zip into the directory: Kitaev-Simulation/data/
