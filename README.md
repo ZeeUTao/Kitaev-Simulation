@@ -1,5 +1,5 @@
 # Kitaev-Simulation
-Kitaev chain simulation in k-space by circuit QED, finished during the last year of my undergraduate and first year of PhD
+Kitaev chain simulation in k-space by circuit QED
 
 ## Note
 when I re-save the data in the form of .csv, the float number may vary slightly, E.g. +- 0.00001
