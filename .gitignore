@@ -1,0 +1,20 @@
+# python3 cache
+__pycache__/
+
+# output figures
+*.pdf
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# tex
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+
+
+*.bib.bak
+*.bib.sav

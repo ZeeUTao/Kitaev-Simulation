@@ -4,9 +4,7 @@ Kitaev chain simulation in k-space by circuit QED
 ## Note
 when I re-save the data in the form of .csv, the float number may vary slightly, E.g. +- 0.00001
 
-## unzip data
-unzip the data/data.zip into the directory: Kitaev-Simulation/data/
-
+## data
 Fig2,3,4
 First two columns are x,y axis
 last two columns are sigma_y,sigma_z represent an arrow
